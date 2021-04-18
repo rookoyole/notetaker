@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/notetaker">
-    <img src=".Main/public/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src="./Main/public/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Note Taker Application</h3>
