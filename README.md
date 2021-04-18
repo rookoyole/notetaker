@@ -68,23 +68,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](main/public/assets/images/screenshot.png)
 <br />
-The purpose of this project was to create a team roster HTML generator from console input questions.
+The purpose of this project was to create a note taking application with persistence using a remote server.
 
 Features:
-* File created in HTML format
-* Multiple employees able to be added
-* Email hyperlinks open in new tab, in default email program
-* Github link opens in new tab
-* Written completely in Javascript
+* Title and additional text fields
+* Notes stored on left side of page
+* Each note is editable after saving
 
 <!-- PROJECT LINKS -->
 ## Project Links
 
 Repository Link: [https://github.com/rookoyole/notetaker](https://github.com/rookoyole/notetaker)
 
-Deployed Link: [https://drive.google.com/file/d/1gTIoc3Ha0rXYsuYLW9qufrn-VNvZNnPb/view](https://drive.google.com/file/d/1gTIoc3Ha0rXYsuYLW9qufrn-VNvZNnPb/view)
+Deployed Link: [https://https://note-takey.herokuapp.com/](https://https://note-takey.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
@@ -105,4 +103,4 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 [issues-url]: https://github.com/rookoyole/notetaker/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: assets/images/screenshot.png
+[product-screenshot]: main/public/assets/images/screenshot.png
