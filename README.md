@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/notetaker">
-    <img src="./assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src=".Main/public/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Note Taker Application</h3>
@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](main/public/assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](Main/public/assets/images/screenshot.png)
 <br />
 The purpose of this project was to create a note taking application with persistence using a remote server.
 
@@ -82,7 +82,7 @@ Features:
 
 Repository Link: [https://github.com/rookoyole/notetaker](https://github.com/rookoyole/notetaker)
 
-Deployed Link: [https://https://note-takey.herokuapp.com/](https://https://note-takey.herokuapp.com/)
+Deployed Link: [https://note-takey.herokuapp.com/](https://note-takey.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
@@ -103,4 +103,4 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 [issues-url]: https://github.com/rookoyole/notetaker/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: main/public/assets/images/screenshot.png
+[product-screenshot]: Main/public/assets/images/screenshot.png
