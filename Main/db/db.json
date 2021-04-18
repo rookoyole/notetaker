@@ -1,13 +1,1 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "sdf",
-      "text": "asedf",
-      "id": "1"
-    }
-  ]
-}
+[{"title":"Test Title","text":"Test text"}]
